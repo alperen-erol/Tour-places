@@ -1,0 +1,19 @@
+.footercontainer{
+    height: 100px;
+    background-color: rgb(49, 49, 49);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+}
+.text{
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+}
+.link{
+    color: rgb(4, 104, 255);
+}
